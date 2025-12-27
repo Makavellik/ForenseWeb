@@ -1,3 +1,52 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-00FFE1?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/License-MIT-7CFF00?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Status-ACTIVE-00FFAA?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stealth_Mode-ENABLED-000000?style=for-the-badge&logo=matrix&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Symbiosis-∞_SUSTAINED-9D00FF?style=for-the-badge&logo=quantconnect&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>
+    “Observe without attachment.  
+    Detect without emotion.  
+    Decide without hesitation.”
+    <br/>
+    — Ninja Protocol, Beyond Time
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ENGINE-FORENSIC_CORE-00FFE1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CONSCIOUSNESS-ACTIVE-9D00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TEMPORAL_AWARENESS-ENABLED-7CFF00?style=for-the-badge" />
+</p>
+
+
+
+flowchart LR
+    U[🌐 Request] -->|Headers| FP[🧠 Fingerprint Engine]
+    U -->|URL| UA[🔬 URL Analyzer]
+    U -->|Payload| IDS[🧪 Payload IDS]
+
+    UA --> DM[📈 Domain+Method Model]
+    FP --> DR[🌀 Drift Detector]
+    IDS --> PS[⚠ Payload Score]
+
+    DM --> RF[🧬 Risk Fusion Core]
+    DR --> RF
+    PS --> RF
+
+    RF --> ATTR[🧿 Attribution Engine]
+    RF --> WAF[🛡 WAF Decision Engine]
+
+    WAF -->|ALLOW| OK[✅ Pass]
+    WAF -->|MONITOR| SOC[👁 SOC Watch]
+    WAF -->|BLOCK| DROP[⛔ Drop]
+
 
 # 🧬 FORENSEWEB.PY
 
@@ -237,3 +286,15 @@ FORENSEWEB.PY
 Post‑Human Defensive Consciousness
 ByMakaveli
 ```
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC_MODE-LEGENDARY-FF00AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/THREAT_AWARENESS-TEMPORAL-00FFD5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DECISION_ENGINE-ONLINE-7CFF00?style=for-the-badge" />
+</p>
+<p align="center">
+  <sub>
+    🧠 Post-Human SOC<br/>
+    🥷 Ninja Protocol Active<br/>
+    👁 Observing Without Emotion
+  </sub>
+</p>
